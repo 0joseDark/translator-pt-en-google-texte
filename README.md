@@ -133,7 +133,6 @@ O `googletrans` pode, em alguns casos, apresentar limitações se houver altera�
 1. **Usar alternativas**: Como `translatepy` ou a API oficial paga do Google Cloud.
 2. **Customizar**: Criar uma integração própria via requisições HTTP para o site.
 
-Se precisar de algo mais específico, avise!
 
 
  
